@@ -194,13 +194,13 @@ section {
 @media screen and (min-width: 768px) {
   .top__img {
     padding-top: 55%;
-    background: url(../img/top@2x.png) top right/82.5% no-repeat;
+    background: url(https://nueno13.github.io/jewelry_web/img/top@2x.png) top right/82.5% no-repeat;
   }
 }
 @media screen and (max-width: 767px) {
   .top__img {
     padding-top: 120%;
-    background: url(../img/sp/top.png.png) center center/cover;
+    background: url(https://nueno13.github.io/jewelry_web/img/sp/top.png.png) center center/cover;
   }
 }
 
