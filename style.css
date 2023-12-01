@@ -358,12 +358,12 @@ section {
 }
 @media screen and (min-width: 768px) {
   .about {
-    background: url(../img/bg@2x.png) center center/cover;
+    background: url(https://nueno13.github.io/jewelry_web/img/bg@2x.png) center center/cover;
   }
 }
 @media screen and (max-width: 767px) {
   .about {
-    background: url(../img/sp/bg.png.png) center center/cover;
+    background: url(https://nueno13.github.io/jewelry_web/img/sp/bg.png.png) center center/cover;
   }
 }
 .about::before {
@@ -628,7 +628,7 @@ section {
 }
 
 .contact {
-  background: url(../img/contact@2x.png) center center/cover;
+  background: url(https://nueno13.github.io/jewelry_web/img/contact@2x.png) center center/cover;
   margin-top: 225px;
   padding: 72px 40px 85px;
 }
